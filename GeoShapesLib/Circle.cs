@@ -1,10 +1,9 @@
 ﻿namespace GeoShapesLib;
 
-public interface IShape
-{
-    double CalculateArea();
-}
-
+/// <summary>
+/// Класс представляет круг и реализует интерфейс IShape.
+/// Содержит свойства и методы, специфичные для круга, такие как вычисление площади на основе радиуса.
+/// </summary>
 public class Circle : IShape
 {
     public double Radius { get; }
