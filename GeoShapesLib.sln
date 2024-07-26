@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoShapesLib", "GeoShapesLib\GeoShapesLib.csproj", "{9964A441-1E0E-4C55-A950-6057CDAE6F44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoShapesLib.Tests", "GeoShapesLib.Tests\GeoShapesLib.Tests.csproj", "{8EAAA61C-52E2-4537-9B3E-A75A4DDB1C41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{9964A441-1E0E-4C55-A950-6057CDAE6F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9964A441-1E0E-4C55-A950-6057CDAE6F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9964A441-1E0E-4C55-A950-6057CDAE6F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EAAA61C-52E2-4537-9B3E-A75A4DDB1C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EAAA61C-52E2-4537-9B3E-A75A4DDB1C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EAAA61C-52E2-4537-9B3E-A75A4DDB1C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EAAA61C-52E2-4537-9B3E-A75A4DDB1C41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,12 @@
+C:\Project\FullStack\ExpenseTracker\GeoShapesLib\GeoShapesLib\bin\Debug\net8.0\GeoShapesLib.deps.json
+C:\Project\FullStack\ExpenseTracker\GeoShapesLib\GeoShapesLib\bin\Debug\net8.0\GeoShapesLib.dll
+C:\Project\FullStack\ExpenseTracker\GeoShapesLib\GeoShapesLib\bin\Debug\net8.0\GeoShapesLib.pdb
+C:\Project\FullStack\ExpenseTracker\GeoShapesLib\GeoShapesLib\obj\Debug\net8.0\GeoShapesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\FullStack\ExpenseTracker\GeoShapesLib\GeoShapesLib\obj\Debug\net8.0\GeoShapesLib.AssemblyInfoInputs.cache
+C:\Project\FullStack\ExpenseTracker\GeoShapesLib\GeoShapesLib\obj\Debug\net8.0\GeoShapesLib.AssemblyInfo.cs
+C:\Project\FullStack\ExpenseTracker\GeoShapesLib\GeoShapesLib\obj\Debug\net8.0\GeoShapesLib.csproj.CoreCompileInputs.cache
+C:\Project\FullStack\ExpenseTracker\GeoShapesLib\GeoShapesLib\obj\Debug\net8.0\GeoShapesLib.sourcelink.json
+C:\Project\FullStack\ExpenseTracker\GeoShapesLib\GeoShapesLib\obj\Debug\net8.0\GeoShapesLib.dll
+C:\Project\FullStack\ExpenseTracker\GeoShapesLib\GeoShapesLib\obj\Debug\net8.0\refint\GeoShapesLib.dll
+C:\Project\FullStack\ExpenseTracker\GeoShapesLib\GeoShapesLib\obj\Debug\net8.0\GeoShapesLib.pdb
+C:\Project\FullStack\ExpenseTracker\GeoShapesLib\GeoShapesLib\obj\Debug\net8.0\ref\GeoShapesLib.dll
